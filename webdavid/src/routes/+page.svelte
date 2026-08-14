@@ -1,3 +1,7 @@
 <div id="home_page" class="page">
-    Hola Mundo
+   <MainHeader />
 </div>
+
+<script lang="ts">
+   import MainHeader from "../components/MainHeader.svelte";
+</script>
